@@ -1,1 +1,1 @@
-python3 "H:\code\asus-sign-out.py"
+python3 "C:\asus-sign-out.py"
