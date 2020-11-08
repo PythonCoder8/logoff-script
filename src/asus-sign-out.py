@@ -1,5 +1,5 @@
 #Automatic Logout Script
-#Author: PythonCoder8
+#Author: PythonCoder8, Cybergavin
 
 import tkinter as tk, time, os
 
