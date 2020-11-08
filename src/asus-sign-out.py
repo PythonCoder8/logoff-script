@@ -5,7 +5,7 @@ import tkinter as tk, time, os
 
 time.sleep(10)
 win = tk.Tk()
-win.iconbitmap('D:\icon-warning.ico')
+win.iconbitmap('C:\icon-warning.ico')
 win.geometry("700x150")
 win.configure(bg="yellow")
 win.title("AUTOMATIC LOGOFF")
